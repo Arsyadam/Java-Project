@@ -3,6 +3,7 @@ package inheritance;
 public class Main {
     public static void main(String[] args) {
        BangunRuang bangunRuang = new BangunRuang();
+       bangunRuang.volume();
 
        Kubus kubus = new Kubus();
        kubus.sisi =5;
