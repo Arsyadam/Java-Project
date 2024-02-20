@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c84f96b2-a3ff-4887-9268-37e75bdb3182" name="Changes" comment="" />
+    <list default="true" id="c84f96b2-a3ff-4887-9268-37e75bdb3182" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Pesawat_Game/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pesawat_Game/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pesawat_Game/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pesawat_Game/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pesawat_Game/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pesawat_Game/Pesawat_Game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pesawat_Game/src/Pesawat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pesawat_Game/src/Pilot.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,9 +19,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2bKiNlFCRcOgxmPBhGytPwkCSGa" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -20,9 +29,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/arsya/OneDrive/Dokumen/Code/learn-java/ArsyadamGaming"
+    "last_opened_file_path": "C:/Users/arsya/OneDrive/Dokumen/Code/learn-java/Person"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
